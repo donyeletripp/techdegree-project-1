@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #black;
+  border-color: black;
 }
 
 ul.skills {
